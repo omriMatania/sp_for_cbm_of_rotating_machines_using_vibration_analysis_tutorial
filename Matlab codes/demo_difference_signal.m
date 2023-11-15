@@ -4,7 +4,7 @@ clear all; close all;
 
 
 % load data
-load('D:\data\work_with_Eric\Signal processing for CBM - a tutorial\demo_difference_signal.mat')
+load('D:\data\papers\Signal processing for CBM - a tutorial\demo_difference_signal.mat')
 
 
 % calculating the difference signal

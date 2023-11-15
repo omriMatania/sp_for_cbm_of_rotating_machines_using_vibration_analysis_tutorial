@@ -4,7 +4,7 @@ clear all; close all;
 
 
 % load data
-load('D:\data\work_with_Eric\Signal processing for CBM - a tutorial\demo_gear_diagnosis.mat')
+load('D:\data\papers\Signal processing for CBM - a tutorial\demo_gear_diagnosis.mat')
 
 
 % processing of the healthy signals
